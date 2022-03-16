@@ -1,0 +1,8 @@
+id,day,temp,condition,data2,categoria
+1,Monday,12,Sunny,3,cat1
+2,Tuesday,14,Rain,5,cat2
+3,Wednesday,15,Rain,6,cat1
+4,Thursday,14,Cloudy,7,cat3
+5,Friday,21,Sunny,8,cat3
+6,Saturday,22,Sunny,9,cat1
+7,Sunday,,Sunny,,cat2
